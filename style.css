@@ -1,0 +1,57 @@
+
+body{
+    border: 2px solid black;
+    width: 600px;
+}
+
+button{
+    margin: 8px 0 8px 8px;
+}
+
+h3{
+    margin: 0px 0px 0px 0px;
+    text-decoration: double;
+}
+
+#nameText{
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+#noteText{
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+#important{
+    font-weight: bold;
+}
+
+#name{
+    margin-left: 8px;
+}
+
+#note{
+    margin-left: 8px;
+}
+
+p{
+    margin: 0px 0px 0px 0px;
+}
+
+.myStyle{
+    background-color: rgb(248, 225, 182);
+    padding: 16px;
+}
+
+div{
+    border: 2px solid black;
+    margin:15px;
+}
+
+#box{    
+    flex-direction: column-reverse;
+    padding:5px 5px 5px 5px;
+}
+  
