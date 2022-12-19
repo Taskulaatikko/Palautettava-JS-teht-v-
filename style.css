@@ -51,6 +51,7 @@ p{
 div{
     border: 2px solid black;
     margin:15px;
+    background-color: aliceblue;
 }
 
 #box{    
